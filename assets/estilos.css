@@ -1,0 +1,85 @@
+body {
+  background-color: #D7D7CE;
+}
+
+#target {
+  text-align: left;
+  overflow: scroll;
+  color: aliceblue;
+  position: absolute;
+  top: 100px;
+  left: 49px;
+  width: 214px;
+  height: 337px;
+}
+
+#lista {
+  color: aliceblue;
+  left: 40px;
+}
+
+#chartContainer{
+  height: 186px; 
+  width: 213px;
+}
+.imagen-poke {
+  position: relative;
+  width: 100%;
+  /* for IE 6 */
+}
+
+#imagen-pokedex {
+  width: 588px;
+  height: 500px;
+}
+
+#imagen {
+  position: absolute;
+  top: 120px;
+  left: 50px;
+  width: 5%;
+}
+
+#chartContainer {
+  position: absolute;
+  top: 250px;
+  left: 49px;
+}
+
+p {
+  color: honeydew;
+  position: absolute;
+  top: 20px;
+  left: 100px;
+}
+
+#boton1 {
+  position: absolute;
+  top: 402px;
+  left: 350px;
+  width: 90px;
+  height: 34px;
+  background-color: #65B8D6;
+}
+
+#boton2 {
+  position: absolute;
+  top: 402px;
+  left: 474px;
+  width: 90px;
+  height: 34px;
+  background-color: #65B8D6;
+}
+
+#nombre-pokemon {
+  position: absolute;
+  top: 149px;
+  left: 350px;
+  width: 213px;
+  height: 74px;
+  background-color: black;
+  border: black;
+  text-align: center;
+  color: wheat;
+  font-size: large;
+}
